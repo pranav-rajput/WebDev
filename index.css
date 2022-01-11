@@ -1,0 +1,315 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    gap: 30px;
+}
+.heading{
+    font-size: 50px;
+    align-self: center;
+}
+.big1{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/risheek.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.big2{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/modern-problems-chapelle.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.big3{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/john-cena-fu.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.big4{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/stop-it-get-some-help.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.big5{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/what-the-fuck-john-what.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.big6{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/daisuke-motomiya-motomiya-daisuke.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+
+.medium1{
+    height: 100px;
+    width: 100px;
+   
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/giphy.gif.webp");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.medium2{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/siiuu1.webp");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.medium3{
+
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/ankara\ messi.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.medium4{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/awkward\ face.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.medium5{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/dancing-coffin-coffin-dance.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.medium6{
+    height: 100px;
+    width: 100px;display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/muchandres\ siuu.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+
+
+.small1{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/cheems1.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+
+.small2{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/cheems2.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.small3{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/noice-nice.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.small4{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/cheems4.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.small5{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/cheems5.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.small6{
+    height: 80px;
+    width: 80px;display: flex;
+    justify-content: center;
+    
+
+    background-image: url("./images/cheems6.gif");
+    background-position: center;
+    background-size: cover;
+    border:7px solid black;
+
+    background-color: black;
+    border-radius: 20px;
+}
+.box-text{
+    align-self: center;     
+    font-size: 35px;
+   
+}
+
+
+
+
+.spacebar{
+    display: flex;
+    justify-content: center;
+
+    height: 100px;
+    width: 400px;
+
+    border:7px solid black;
+    background-image: url("./images/giphy\ \(1\).gif");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    align-self: center;
+
+}
